@@ -2,3 +2,22 @@
   font-family: sans-serif;
   text-align: center;
 }
+.input input {
+  padding: 15px;
+  margin: 20px;
+  border-radius: 15px;
+  font-size: 20px;
+  outline: none;
+}
+.button {
+  display: inline-flex;
+  margin: 10px;
+}
+.space {
+  margin: 10px;
+  padding: 5px;
+}
+.space button {
+  cursor: pointer;
+  border-radius: 10px;
+}
